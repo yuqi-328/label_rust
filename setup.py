@@ -130,7 +130,7 @@ def main():
         long_description_content_type="text/markdown",
         author="Kentaro Wada",
         author_email="www.kentaro.wada@gmail.com",
-        url="https://github.com/wkentaro/labelme",
+        url="https://github.com/yuqi-328/label_rust",
         install_requires=get_install_requires(),
         license="GPLv3",
         keywords="Image Annotation, Machine Learning",
