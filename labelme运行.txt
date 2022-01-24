@@ -1,0 +1,15 @@
+
+【1】不要用pycharm打开运行，很可能出现一些奇怪的问题，可以选择VScode，或直接用命令行运行
+
+【2】需要安装的包：
+ · 使用python=3.7
+ · pip install qtpy
+ · pip install pyyaml
+ · pip install pyqt5
+ · pip install pillow
+ · pip install termcolor
+ · pip install colorama
+ · pip install numpy
+ · pip install imgviz
+
+【3】运行labelme文件夹下的__main__.py文件
